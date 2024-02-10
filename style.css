@@ -9,6 +9,10 @@
     margin-left: 5%;
     padding: 2%;
 }
+body{
+background-image:url("images/dream-bg.png");
+background-repeat: no-repeat;
+}
 .haf img{
  width: 100%;
 
