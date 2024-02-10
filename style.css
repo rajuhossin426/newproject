@@ -4,10 +4,40 @@
 }
 .haf{
     width: 40%;
+    height: 40%;
     float: left;
     margin-left: 5%;
     padding: 2%;
 }
 .haf img{
  width: 100%;
+
+} 
+.milon{
+    width: 40%;
+    height: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.milon img{
+    border: 1px solid blue;
+    border-radius: 60px;
+ width: 100%;
+
+} 
+.kamal{
+    border: 20px solid red;
+    border-radius: 20px;
+    width: 25%;
+    height: 75%;
+    text-align: center;
+    float: right;
+    background-color: #09f13b;
+    margin-right:5%;
+    font-family:serif;
+    p
+}
+#RRR{
+   padding-bottom: 200PX;
 }
