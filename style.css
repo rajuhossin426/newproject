@@ -48,14 +48,38 @@ p{
     margin-left: 10%;
 }
 .hafff{
+    box-shadow: 10px 20px 40px rgb(3, 183, 248);
     border: 1px solid blue;
-    border-radius: 0px;
+    border-radius: 10px;
    padding-right: 3px;
-    border-left: 7px solid red;
+  
     text-align: center;
     width: 30%;
-    height: 50%;
+    height: 60%;
     float: left;
     margin-left: 5%;
     padding: 2%;
+    background-color: white;
 } 
+.rrrg{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#gggg{
+    border-left: 7px solid;
+    border:linear-gradient( 160 deg, red,blue);
+    border-image-slice: 1;
+
+}
+#jamal{
+
+    border-left: 7px solid;
+    border-image:linear-gradient( 160 deg, red,blue);
+    border-image-slice: 1;
+
+}
+footer{
+ text-align: center;
+ color: rgb(184, 146, 97);
+}
